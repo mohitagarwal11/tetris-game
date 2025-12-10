@@ -1,6 +1,4 @@
-Hello, so i made this game as a vibe code session, seemed cool so i am pushing it here. 
-Works only for linux right now because windows input is something i am still working on for console based games.
+I built this Tetris game in C during a late-night code session and ended up liking it enough to share.
+Right now it runs on Linux only.
 
-Thank you for checking my project.
-
-:)
+Thanks for checking out my project.
